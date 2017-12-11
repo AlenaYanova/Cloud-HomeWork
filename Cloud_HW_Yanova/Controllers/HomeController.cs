@@ -1,10 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using Cloud_HW_Yanova.Models;
 
-namespace Cloud_HW_Yanova.Controllers
+namespace Cloud_HW_Yanova.Models
 {
     public class HomeController : Controller
     {
@@ -12,19 +14,20 @@ namespace Cloud_HW_Yanova.Controllers
         {
             return View();
         }
-
-        public ActionResult About()
+        public ActionResult HelloMassage(string UserName)
         {
-            ViewBag.Message = "Your application description page.";
-
-            return View();
+             string res = "Hello " + UserName + "!";
+             return PartialView(res);
+           // ViewData["HelloMassage"] = "Hello " + UserName + "!";
+            //return View("Index");
         }
 
-        public ActionResult Contact()
+        public ActionResult VoteResult()
         {
-            ViewBag.Message = "Your contact page.";
-
-            return View();
+            string res = "Вы проголосовали за В.В.Путина. Ваш голос очень важен для нас!";
+            return PartialView(res);
+            // ViewData["HelloMassage"] = "Hello " + UserName + "!";
+            //return View("Index");
         }
     }
 }
