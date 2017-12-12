@@ -1,0 +1,8 @@
+C:\Users\Алёна\source\repos\Cloud_HW_Yanova\.vs\Cloud_HW_Yanova\lut\0\b\Cloud_HW_Yanova\bin\ApplicationInsights.config
+C:\Users\Алёна\source\repos\Cloud_HW_Yanova\.vs\Cloud_HW_Yanova\lut\0\b\Cloud_HW_Yanova\bin\Cloud_HW_Yanova.dll.config
+C:\Users\Алёна\source\repos\Cloud_HW_Yanova\.vs\Cloud_HW_Yanova\lut\0\b\Cloud_HW_Yanova\bin\Cloud_HW_Yanova.dll
+C:\Users\Алёна\source\repos\Cloud_HW_Yanova\.vs\Cloud_HW_Yanova\lut\0\b\Cloud_HW_Yanova\bin\Cloud_HW_Yanova.pdb
+C:\Users\Алёна\source\repos\Cloud_HW_Yanova\.vs\Cloud_HW_Yanova\lut\0\i\Cloud_HW_Yanova\Debug\Cloud_HW_Yanova.csprojResolveAssemblyReference.cache
+C:\Users\Алёна\source\repos\Cloud_HW_Yanova\.vs\Cloud_HW_Yanova\lut\0\i\Cloud_HW_Yanova\Debug\Cloud_HW_Yanova.csproj.CoreCompileInputs.cache
+C:\Users\Алёна\source\repos\Cloud_HW_Yanova\.vs\Cloud_HW_Yanova\lut\0\i\Cloud_HW_Yanova\Debug\Cloud_HW_Yanova.dll
+C:\Users\Алёна\source\repos\Cloud_HW_Yanova\.vs\Cloud_HW_Yanova\lut\0\i\Cloud_HW_Yanova\Debug\Cloud_HW_Yanova.pdb

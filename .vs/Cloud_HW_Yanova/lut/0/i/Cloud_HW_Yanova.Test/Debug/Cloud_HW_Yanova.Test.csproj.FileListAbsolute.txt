@@ -1,0 +1,13 @@
+C:\Users\Алёна\source\repos\Cloud_HW_Yanova\.vs\Cloud_HW_Yanova\lut\0\b\Cloud_HW_Yanova.Test\bin\Debug\ApplicationInsights.config
+C:\Users\Алёна\source\repos\Cloud_HW_Yanova\.vs\Cloud_HW_Yanova\lut\0\b\Cloud_HW_Yanova.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Алёна\source\repos\Cloud_HW_Yanova\.vs\Cloud_HW_Yanova\lut\0\b\Cloud_HW_Yanova.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Алёна\source\repos\Cloud_HW_Yanova\.vs\Cloud_HW_Yanova\lut\0\b\Cloud_HW_Yanova.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Алёна\source\repos\Cloud_HW_Yanova\.vs\Cloud_HW_Yanova\lut\0\b\Cloud_HW_Yanova.Test\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Алёна\source\repos\Cloud_HW_Yanova\.vs\Cloud_HW_Yanova\lut\0\b\Cloud_HW_Yanova.Test\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Алёна\source\repos\Cloud_HW_Yanova\.vs\Cloud_HW_Yanova\lut\0\b\Cloud_HW_Yanova.Test\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Алёна\source\repos\Cloud_HW_Yanova\.vs\Cloud_HW_Yanova\lut\0\b\Cloud_HW_Yanova.Test\bin\Debug\Cloud_HW_Yanova.Test.dll
+C:\Users\Алёна\source\repos\Cloud_HW_Yanova\.vs\Cloud_HW_Yanova\lut\0\b\Cloud_HW_Yanova.Test\bin\Debug\Cloud_HW_Yanova.Test.pdb
+C:\Users\Алёна\source\repos\Cloud_HW_Yanova\.vs\Cloud_HW_Yanova\lut\0\i\Cloud_HW_Yanova.Test\Debug\Cloud_HW_Yanova.Test.csprojResolveAssemblyReference.cache
+C:\Users\Алёна\source\repos\Cloud_HW_Yanova\.vs\Cloud_HW_Yanova\lut\0\i\Cloud_HW_Yanova.Test\Debug\Cloud_HW_Yanova.Test.csproj.CoreCompileInputs.cache
+C:\Users\Алёна\source\repos\Cloud_HW_Yanova\.vs\Cloud_HW_Yanova\lut\0\i\Cloud_HW_Yanova.Test\Debug\Cloud_HW_Yanova.Test.dll
+C:\Users\Алёна\source\repos\Cloud_HW_Yanova\.vs\Cloud_HW_Yanova\lut\0\i\Cloud_HW_Yanova.Test\Debug\Cloud_HW_Yanova.Test.pdb

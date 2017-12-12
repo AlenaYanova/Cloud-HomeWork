@@ -1,0 +1,2 @@
+C:\Users\Алёна\source\repos\Cloud_HW_Yanova\Cloud_HW_Yanova.Test\obj\Debug\Cloud_HW_Yanova.Test.csprojResolveAssemblyReference.cache
+C:\Users\Алёна\source\repos\Cloud_HW_Yanova\Cloud_HW_Yanova.Test\obj\Debug\Cloud_HW_Yanova.Test.csproj.CoreCompileInputs.cache
