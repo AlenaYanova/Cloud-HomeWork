@@ -13,6 +13,6 @@ namespace Cloud_HW_Yanova.Models
         {
             return View();
         }
-        public static string Hello(string UserName) => "Hello " + UserName + "!";
+        public static string Hello(string UserName) => "Привет, " + UserName + "!";
     }
 }

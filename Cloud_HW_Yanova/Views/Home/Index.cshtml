@@ -1,5 +1,5 @@
-﻿@Scripts.Render("~/scripts/jquery-1.10.2.js")
-@Scripts.Render("~/scripts/jquery.unobtrusive-ajax.js")
+﻿<script src="@Url.Content("~/Scripts/jquery-3.2.1.min.js ")" type="text/java script"></script>
+<script src="@Url.Content("~/Scripts/jquery.unobtrusive-ajax.js")" type="text/javascript "></script>
 
 @{
     ViewBag.Title = "Home Page";
@@ -12,6 +12,7 @@
 
 
 <div class="row">
+
     <div class="col-md-4">
         <h2>Часть 1</h2>
         <p>Введите ваше имя.</p>
@@ -27,10 +28,10 @@
         <h2>Часть 2</h2>
         <p>Вы отдаете свой голос за В.В.Путина?</p>
         @using (Ajax.BeginForm("VoteResult", new AjaxOptions { UpdateTargetId = "result2" }))
-    {
-        <input type="submit" value="Да" />
-        <input type="submit" value="Нет" />
-}
+        {
+            <input type="submit" value="Да" />
+            <input type="submit" value="Нет" />
+        }
         <div id="result2"></div>
     </div>
 </div>

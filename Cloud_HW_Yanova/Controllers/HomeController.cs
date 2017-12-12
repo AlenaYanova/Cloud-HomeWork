@@ -14,18 +14,16 @@ namespace Cloud_HW_Yanova.Models
         {
             return View();
         }
-        public ActionResult HelloMassage(string UserName)
+        public ActionResult HelloMessage(string UserName)
         {
-             string res = "Hello " + UserName + "!";
-             return PartialView(res);
-           // ViewData["HelloMassage"] = "Hello " + UserName + "!";
-            //return View("Index");
+            string res = VotingController.Hello(UserName);
+             return PartialView((object)res);
         }
 
         public ActionResult VoteResult()
         {
             string res = "Вы проголосовали за В.В.Путина. Ваш голос очень важен для нас!";
-            return PartialView(res);
+            return PartialView((object)res);
             // ViewData["HelloMassage"] = "Hello " + UserName + "!";
             //return View("Index");
         }
