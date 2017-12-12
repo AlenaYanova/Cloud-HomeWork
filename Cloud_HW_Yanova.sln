@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cloud_HW_Yanova", "Cloud_HW_Yanova\Cloud_HW_Yanova.csproj", "{A59F3DE9-FD02-47D6-B5A6-89A285636846}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cloud_HW_Yanova.Test", "Cloud_HW_Yanova.Test\Cloud_HW_Yanova.Test.csproj", "{61129B6B-6F8F-4851-8E6A-0368234D09E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A59F3DE9-FD02-47D6-B5A6-89A285636846}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A59F3DE9-FD02-47D6-B5A6-89A285636846}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A59F3DE9-FD02-47D6-B5A6-89A285636846}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61129B6B-6F8F-4851-8E6A-0368234D09E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61129B6B-6F8F-4851-8E6A-0368234D09E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61129B6B-6F8F-4851-8E6A-0368234D09E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61129B6B-6F8F-4851-8E6A-0368234D09E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
