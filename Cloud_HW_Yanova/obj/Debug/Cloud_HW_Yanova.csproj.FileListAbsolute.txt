@@ -23,7 +23,6 @@ c:\users\алёна\source\repos\Cloud_HW_Yanova\Cloud_HW_Yanova\bin\System.Web.
 c:\users\алёна\source\repos\Cloud_HW_Yanova\Cloud_HW_Yanova\bin\WebGrease.dll
 c:\users\алёна\source\repos\Cloud_HW_Yanova\Cloud_HW_Yanova\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 c:\users\алёна\source\repos\Cloud_HW_Yanova\Cloud_HW_Yanova\bin\System.Web.Helpers.xml
-c:\users\алёна\source\repos\Cloud_HW_Yanova\Cloud_HW_Yanova\bin\System.Web.Mvc.xml
 c:\users\алёна\source\repos\Cloud_HW_Yanova\Cloud_HW_Yanova\bin\System.Web.Optimization.xml
 c:\users\алёна\source\repos\Cloud_HW_Yanova\Cloud_HW_Yanova\bin\System.Web.Razor.xml
 c:\users\алёна\source\repos\Cloud_HW_Yanova\Cloud_HW_Yanova\bin\System.Web.WebPages.xml
@@ -37,7 +36,6 @@ c:\users\алёна\source\repos\Cloud_HW_Yanova\Cloud_HW_Yanova\bin\Microsoft.A
 c:\users\алёна\source\repos\Cloud_HW_Yanova\Cloud_HW_Yanova\bin\Microsoft.AI.WindowsServer.xml
 c:\users\алёна\source\repos\Cloud_HW_Yanova\Cloud_HW_Yanova\bin\Microsoft.AI.Web.xml
 c:\users\алёна\source\repos\Cloud_HW_Yanova\Cloud_HW_Yanova\bin\ru\System.Web.Helpers.resources.dll
-c:\users\алёна\source\repos\Cloud_HW_Yanova\Cloud_HW_Yanova\bin\ru\System.Web.Mvc.resources.dll
 c:\users\алёна\source\repos\Cloud_HW_Yanova\Cloud_HW_Yanova\bin\ru\System.Web.Optimization.resources.dll
 c:\users\алёна\source\repos\Cloud_HW_Yanova\Cloud_HW_Yanova\bin\ru\System.Web.Razor.resources.dll
 c:\users\алёна\source\repos\Cloud_HW_Yanova\Cloud_HW_Yanova\bin\ru\System.Web.WebPages.resources.dll
